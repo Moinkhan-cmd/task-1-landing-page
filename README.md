@@ -22,7 +22,7 @@ The layout adapts to different screen sizes using `@media` queries. Navigation b
 
 ## 📷 Screenshot
 
-![Landing Page](photos/screenshot.png)
+![Landing Page](photos/Screenshot.png)
 
 
 ## 📁 Folder Structure
