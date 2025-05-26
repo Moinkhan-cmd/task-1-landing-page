@@ -22,8 +22,6 @@ The layout adapts to different screen sizes using `@media` queries. Navigation b
 
 ## 📷 Screenshot
 
-## 📷 Screenshot
-
 ![Landing Page](photos/screenshot.png)
 
 
